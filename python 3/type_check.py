@@ -2,7 +2,8 @@
 # predictions:
 # 8080 is int
 # "8080"is str
-# "99.51.100.7" is str
+# 99.5 is float
+# "198.51.100.7" is str
 # 1_000 is int
 print(8080, type(8080))
 print("8080", type("8080"))
