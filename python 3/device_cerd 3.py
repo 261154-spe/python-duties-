@@ -14,4 +14,4 @@ print("max connctions:",MAX_CONNECTIONS)
 service = "SSH"
 open_port = 22
 
-print("Updated service:",service,"on port,open_port")
+print("Updated service:",service,"on port",open_port)
