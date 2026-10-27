@@ -1,4 +1,4 @@
-# device_cerd.py
+# device_card.py
 # This program prints a network device record.
 MAX_CONNECTIONS = 100
 device_name = "wed_server_01"
